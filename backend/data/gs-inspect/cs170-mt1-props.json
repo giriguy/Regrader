@@ -1,0 +1,1526 @@
+{
+  "assignment": {
+    "id": 7750050,
+    "title": "Midterm 1",
+    "total_points": "101.0",
+    "student_submission": false,
+    "group_size": null,
+    "rubric_visibility_setting": "show_all_rubric_items",
+    "identification_regions": {
+      "sid": {
+        "x1": 41.2,
+        "x2": 85,
+        "y1": 24.2,
+        "y2": 29.3,
+        "page_number": 1
+      },
+      "name": {
+        "x1": 40.9,
+        "x2": 85,
+        "y1": 18.7,
+        "y2": 24.3,
+        "page_number": 1
+      }
+    },
+    "regrade_request_end": "2026-03-13T23:59:00.000000-07:00",
+    "regrade_request_start": "2026-03-10T12:00:00.000000-07:00",
+    "creator_id": 3929849,
+    "when_to_create_rubric": "while_grading",
+    "users_seen_assisted_grading_feature": [
+      "3999752",
+      "4000095",
+      "4020182",
+      "3929849",
+      "4085171",
+      "3906405",
+      "4027265",
+      "397776"
+    ],
+    "rubric_locking_setting": "all_edit",
+    "sends_lms_due_date": true,
+    "submission_format": "fixed_length",
+    "template_url": null,
+    "due_date": null,
+    "regrade_requests_open": false,
+    "outline_created": true,
+    "submission_allowed": false,
+    "resubmit_allowed": true,
+    "group_members_updatable": false,
+    "show_late_submission_warning": false,
+    "show_answers": false,
+    "show_explanations_after_correct": false,
+    "show_old_submission_scores": false,
+    "time_limit_in_minutes": null,
+    "time_remaining_in_minutes": null,
+    "enforce_time_limit": false,
+    "leaderboard_enabled": false,
+    "timezone": {
+      "abbr": "PDT",
+      "zone": "Pacific Time (US & Canada)",
+      "identifier": "America/Los_Angeles"
+    },
+    "submissions_anonymized": false
+  },
+  "assignment_level_rubric": false,
+  "assignment_submission": {
+    "id": 393529875,
+    "created_at": "2026-02-26T22:03:08.899931-08:00",
+    "status": "processed",
+    "source": "web",
+    "uploaded_by_user_id": 8321993,
+    "score": "68.0",
+    "lateness_in_words": null,
+    "export_allowed": true,
+    "active": true,
+    "start_time_utility_submission": false
+  },
+  "container": null,
+  "course_members": [
+    {
+      "id": 8321993,
+      "email": "adithyag@berkeley.edu",
+      "name": "Adithya Giri"
+    }
+  ],
+  "current_user": {
+    "id": 8321993,
+    "is_instructor": false,
+    "is_admin": false
+  },
+  "grades_visible": true,
+  "hide_email_addresses": false,
+  "student_hide_email_addresses": true,
+  "image_attachments": [],
+  "inorder_leaf_question_ids": [
+    67014688,
+    67014689,
+    67014690,
+    67014691,
+    66946874,
+    66946875,
+    66946876,
+    66946877,
+    66946878
+  ],
+  "outline": [
+    {
+      "id": 67014688,
+      "type": "FreeResponseQuestion",
+      "index": 1
+    },
+    {
+      "id": 67014689,
+      "type": "FreeResponseQuestion",
+      "index": 2
+    },
+    {
+      "id": 67014690,
+      "type": "FreeResponseQuestion",
+      "index": 3
+    },
+    {
+      "id": 67014691,
+      "type": "FreeResponseQuestion",
+      "index": 4
+    },
+    {
+      "id": 66946874,
+      "type": "FreeResponseQuestion",
+      "index": 5
+    },
+    {
+      "id": 66946875,
+      "type": "FreeResponseQuestion",
+      "index": 6
+    },
+    {
+      "id": 66946876,
+      "type": "FreeResponseQuestion",
+      "index": 7
+    },
+    {
+      "id": 66946877,
+      "type": "FreeResponseQuestion",
+      "index": 8
+    },
+    {
+      "id": 66946878,
+      "type": "FreeResponseQuestion",
+      "index": 9
+    }
+  ],
+  "ownerships": [
+    {
+      "id": 409076744,
+      "user_id": 8321993,
+      "active": true,
+      "uploader": true
+    }
+  ],
+  "inactive": false,
+  "paths": {
+    "course_path": "/courses/1233533",
+    "submission_path": "/courses/1233533/assignments/7750050/submissions/393529875",
+    "submission_status_path": "/courses/1233533/assignments/7750050/submissions/393529875/status.json",
+    "submission_react_path": "/courses/1233533/assignments/7750050/submissions/393529875.json?content=react",
+    "graded_pdf_path": "/courses/1233533/assignments/7750050/submissions/393529875.pdf",
+    "pdf_attachment_status_path": "/courses/1233533/assignments/7750050/submissions/393529875/pdf_attachment_status.json",
+    "select_pages_path": "/courses/1233533/assignments/7750050/submissions/393529875/select_pages",
+    "regrade_requests_path": "/courses/1233533/assignments/7750050/submissions/393529875/regrade_requests",
+    "resubmit_path": "/courses/1233533/assignments/7750050/submissions",
+    "original_file_path": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/pdf_attachment/file/254912531/output.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a7f3570d53fd76bfe2c0642a8a0327fb211bbcd32e646df47fc9ad20e72082df",
+    "ownerships_path": "/courses/1233533/assignments/7750050/submissions/393529875/ownerships",
+    "many_ownerships_path": "/courses/1233533/assignments/7750050/submissions/393529875/ownerships/many",
+    "resubmit_new_path": "/courses/1233533/assignments/7750050/submissions/new",
+    "resubmit_images_path": "/courses/1233533/assignments/7750050/submissions/submit_images",
+    "panda_submission_path": "/courses/1233533/assignments/7750050/submissions/393529875/panda_submission",
+    "new_public_key_path": "/public_keys/new"
+  },
+  "pdf_attachment": {
+    "id": 254912531,
+    "user_id": null,
+    "attachable_id": 393529875,
+    "attachable_type": "AssignmentSubmission",
+    "created_at": "2026-02-26T22:03:08.948417-08:00",
+    "updated_at": "2026-02-26T22:03:12.438098-08:00",
+    "page_count": 14,
+    "status": 2,
+    "suspicious": false,
+    "status_string": "complete",
+    "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/pdf_attachment/file/254912531/output.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a7f3570d53fd76bfe2c0642a8a0327fb211bbcd32e646df47fc9ad20e72082df",
+    "filename": "output.pdf",
+    "pages": [
+      {
+        "id": 1792706634,
+        "pdf_attachment_id": 254912531,
+        "number": 1,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703957/page_29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=43029b55f432bc89f763b7169a4885e7a9b8038f72a3cf4ed03fbb4bd5127fdd",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703957/thumb_page_29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=092d31cbab998fac50a27d2c26c1c610413bcf2b5d4603d762014ec785a662ed",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706639,
+        "pdf_attachment_id": 254912531,
+        "number": 2,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703958/page_30.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f6630671f597ed76c56e208d37b746b6e61329256277474d27969976ec8d07a4",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703958/thumb_page_30.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0b3418e737ad1140f444307cc7027e83e65ef8ae62452b4f7836da2b569a1beb",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706650,
+        "pdf_attachment_id": 254912531,
+        "number": 3,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703959/page_31.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0360086b29946bc72fc14ba2603f627ddfc7bcd10b0054213d1dc9a92b4750d2",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703959/thumb_page_31.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=26d4e57dfc279c4109b0d1339a15bc8b28a598a486177780db347dcfd92d6af5",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706659,
+        "pdf_attachment_id": 254912531,
+        "number": 4,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703960/page_32.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e87c6e955b8eecba5b14c2391ed40bfb264efb4efe93fefe49bb469e00b725c2",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703960/thumb_page_32.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=aefa5fa1a0ef9321b87422e9dcf9729fea11b69058ffb6a83efc92639d9ca758",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706669,
+        "pdf_attachment_id": 254912531,
+        "number": 5,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703962/page_33.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f09f8c984e7690d0d48c1aed6ca7369e6d5cddfa30cecf513f9a6df834ca76a9",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703962/thumb_page_33.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5a765fab084e94616e72128f901e6979ec8b9368f96e1f0b91b8413b48852d0f",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706677,
+        "pdf_attachment_id": 254912531,
+        "number": 6,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703964/page_34.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9c6e5fbd835d376ed901746224594e78f456de988c845048f050115c9b18d818",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703964/thumb_page_34.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0e507fd9af11fbbd988102739d282b8b853bde53fb62aea10da754e4b1f8e4b8",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706684,
+        "pdf_attachment_id": 254912531,
+        "number": 7,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703966/page_35.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c41726085c49bb0150033d0c6c162d9bd00544f21c2672db6da9972ae910b1c6",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703966/thumb_page_35.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=16c698337891f64e399882910b9df6ec3374a8ccb4da610f03cd9e6201402b8a",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706694,
+        "pdf_attachment_id": 254912531,
+        "number": 8,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703968/page_36.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e43a67e13147101375645f77501a9f996df91fb545facc2d43f7ecea77786112",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703968/thumb_page_36.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d95044d14c2ac125895e60225d1a171aa23ab2003caa16f619e3976a70e5e99a",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706703,
+        "pdf_attachment_id": 254912531,
+        "number": 9,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703970/page_37.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=361d6949eaf6e1e210a423143c57d7d8c0466c316e1101e6c387a2f5f7b2bfe7",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703970/thumb_page_37.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bc033520d1fb047a9a72fd3a2019b772dd8f84bab1b1fd02100f9a250acc9e83",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706713,
+        "pdf_attachment_id": 254912531,
+        "number": 10,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703972/page_38.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1153a4987b5e758e0d0ea3aea07cc04d814a61c8eb43bbb69a11eac202c0baab",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703972/thumb_page_38.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9a08bb7acbdbb299b8a48bca3a286b01527033f18d527ad5aadc9adc15dbffec",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706723,
+        "pdf_attachment_id": 254912531,
+        "number": 11,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703974/page_39.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3ef39e4a22c4eeb56b4e8fa068e07601518e0cf261339ee02ff0794515140578",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703974/thumb_page_39.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=de961c41d8fec9f09fc555fbf78d745551e6b2c6272be439fe94ec1ed2e8b7c2",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706729,
+        "pdf_attachment_id": 254912531,
+        "number": 12,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703976/page_40.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8a4d53e257772e023b681a4d6a90b5d0bd838be3a2fbdd563e6f6d85c2da78f9",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703976/thumb_page_40.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7f3209a40acb8b5fcfe514bc0809684d6def50dd6c8b99b70bc28e66932e18a9",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706736,
+        "pdf_attachment_id": 254912531,
+        "number": 13,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703978/page_41.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7dc3a10f3460e9a6eb409a2e20f57a2014b5794705fba3f790db8f3b76ec0e82",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703978/thumb_page_41.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=03e23488e8cc9df63e838f875b2a4183c35f5cdb35a82458365da09826e4797d",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      },
+      {
+        "id": 1792706742,
+        "pdf_attachment_id": 254912531,
+        "number": 14,
+        "width": 2547,
+        "height": 3295,
+        "url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703981/page_42.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWULHR7RMK%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234503Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQCLCbzCe3b1Thtdb%2FxZfJ2u7UXZnwQfAYvBOwbUqNyhOQIgVvg5GFoLeLBWVAjDJ8F4Lknrpa4C0XsfgRMrksVLvesqxAUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDHsH2Pp3UycNiQYAqSqYBV2zFnYr4lh9UsMhIKE9HH9dS6%2FQKT8D13CEMP1d2eIFJzQ03peUe1GgV0idt8LLYWsTkB95VgiBzyW6OwQGB0NEYz0YJuf1bT1SdqlrCzaAPtI82qndQP1tRQgNjr11WpqpnnyOq26SQpDJurTelB8JlUOzKPmLfe5FMz68g2ngkq%2B5vWxFmZ6%2FcxCKUIHtDQzTWhFIoOTeESgxqKhC86Hqn59s3TRJ35wvA273CRlR6KedI7Yhl2qNzTX05MqUjgt7zxT8wk2S5M3%2BOQH%2BbS3PoGFKxe%2FKvixC44kPFxAHVKtLCj1sv38xGKj7%2FGXQ8m43BK%2FeQbf1gZP24z3XDxNbz%2FSnr0GYOsbvyaal2TvOZX%2BxS6F%2F0obqXUN8eHpkQ%2FDhboYxvdZ6DiSNWbUIV8nwFzUaDdHlY0eQzAM4JfIJilod87k%2FoiPCYOsOBdOueIaPMiUvAO8o3oZ6HIPI6zwMiuKxLAwxhEoXmr1yfZApm50ewHQp1217tzkPYaJZU%2FKWfKBitlo0gz0hPQ%2BpMkfZdPSG47pASbeTUan7T6pmECRvkq4PHLYUU%2BUtG3Gnj4it%2BcKemHG6BZe2AdQF02bzHxlHC2vC3kGYu8g%2BQxQkPMTDLgTrCcA%2F1l%2FWlXJibvQn2yDJN2iFpJs5aV%2BLKw%2Bhh9%2BxTWnyegxnYo4sg9C%2FNlX3MqWjVtS1VkaTaIx0e5b5Nie8QQhD7niO0AxiAlbLZ6ZZsHsxr08tYvN353M1bOOzI53ZPc34s4tKv%2BMqV2J7sQ8l1fN7qHrVp%2BnRvYZ6vD%2BALJo467nYpQgkBQ3DzIhfugA6GqpHOw%2BbTgQf2xHOM1gTh8j5m3ws9knDERamSuHHOxY5tjSPgiDQ8kq74mjIxArAhzEw3vX%2BzwY6sQHe3NeS7PZWpehpCGcmUUMgBTYLblQR2ZoBqU7O8jyzuxuFWaeKwFSv4UOADUcsqGMVeR%2F4U8i18e%2Fz8UtB5czEZWFH4ubG58SM%2FeV%2BNSHjfe5oqm%2BDiZfU1zp4nGUZAdflVlX1p0E3%2FX4TccnYQOewh6yltlviURRBHsNxBD8u9R9MatRV3XYEEABZvRhsBNvZELZLrIr2Ha%2B%2FI1UQCUYNKz44zpE2FoSsT5nGSvnTjW0%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a257604ecf3c97d7f73718cfcdba386ace5b4ed0468f127a83146297475e8b6f",
+        "thumb_url": "https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/page/file/1792703981/thumb_page_42.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWUIEXKDKD%2F20260509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260509T234839Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLXdlc3QtMiJHMEUCIQDegUwMwFMK8eoEtVM33l1RyXs775Cvh75EtAAgEoVcLwIgSMB0U4daTvUqot%2BwdDK36%2BwlI%2B0yZaRVHvlNezT74VEqwwUI8P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDOjkBhqWV7BkCdhquSqXBTzUaInPiSQvl1jjh3PMuyu1uECaDCfgWnaUTPDosSWMbzHbBGH54yl5zgkTrZYbVGoCiWgSxZmdcg2JICJN7XdOKhOdETiobT2gfvFTqkNrPZyvIl5jEuVpR%2FLA3MXf2g6lgJykUlzMM3vjAnkMNom8P%2FSQ2WrJ3ZiSVIQhdP0bbMrLgLLHNWh3%2Bf3inUGwBagMBca65u2V2Yl7770jUqwDkKr2fdMQ3OVTI3mbvbN49T7GuIiVUI5WFgMRsYvUfOJDH5%2FUslA9sPqjFmVg8SwHlD6VRr0c297FKISEMyWu%2FaOxwJxmOTuj0SqnDFjVLyL45RHDbQ4VzQQTuTqdr%2BKC5%2Bokng%2FUhWmIOw4jIHTrlgp98yNOYX46tLxusc6z988WhHYpfqDRcUZynFaWwp3laJkW0ugC5tU4Jw33EEAGwhV1Ho03QiAgYiNWiHIFIKmroy6HUJqcPJRQTQ1QdIjptRnyX89XwTnESaJ8eZo%2Fq2bzC%2BJTlweY6bNFMltI4ddltyJSo7f%2BkIPm0Po8iUOVFSEmAxNHYPnsu9zx5pYv91LiEXLujDKupwwYHm%2F450WHULAdoGBg%2BmgpXQjBJ7cn6cbVWuOW4NLQXOgGztChB1EgKTYGOqUVX9AbGSQ7FeA36rzOPZbaSl7qfX%2BnmaxhOVAO9ySaELkd35wra7Rc8ahN8KoPqw%2FWDhVXEdrFcdV5J5KJS5CrJNDHJj%2BAroAaO%2BlM5daqQiQ7OwFKkwjbmixyi%2BT5mGLLE4YPUm6lWfDbluOq7wKqGgAitcQuK4wBv4DgNwTXQGiLMOhR2CfdL6kca%2BSnH1Ygn7YPlxrFb1UC60uPII%2FpCwF2WXeuZU%2Bc1SfpkUOTltXpzDd86D3rzUmZx8%2FyijCz9%2F7PBjqxAZHrOOsazghFKbrWfgJMz05Rg1VNlPO2tGH5jYg9FHxCqSM5aoGFyPJeIwIS%2BBABB6xy94CEM%2BoOMAtIpgaPZkkIM%2BGFam%2FE8ryHdRT6AubV8MGymFJSI42gMBTSR5QSRFMJTvXjFtB8%2BQL2znl%2FX6pfwwn0NrQEyIaZIP%2Fjg4CjI9zrkjuMjsneHls%2BqihPsGgMULG5g%2Bc1F6VsBN3zWpN4xALkLio40vQdhNYfBQ22Bw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b25b681eb83c7e6b121c25dffa0e4dacf23a446c7a6cfece08b551a2ca3aaeb5",
+        "type": "Page",
+        "selected": null,
+        "missing_placeholder": false
+      }
+    ]
+  },
+  "question_submissions": [
+    {
+      "score": "0.0",
+      "question_id": 67014690,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3722680898,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/67014690/submissions/3722680898/grade",
+      "annotations": []
+    },
+    {
+      "score": "0.0",
+      "question_id": 66946878,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3720296249,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/66946878/submissions/3720296249/grade",
+      "annotations": []
+    },
+    {
+      "score": "0.0",
+      "question_id": 66946874,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3720296207,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/66946874/submissions/3720296207/grade",
+      "annotations": []
+    },
+    {
+      "score": "0.0",
+      "question_id": 66946875,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3720296220,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/66946875/submissions/3720296220/grade",
+      "annotations": []
+    },
+    {
+      "score": "0.0",
+      "question_id": 66946876,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3720296233,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/66946876/submissions/3720296233/grade",
+      "annotations": []
+    },
+    {
+      "score": "0.0",
+      "question_id": 66946877,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3720296242,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/66946877/submissions/3720296242/grade",
+      "annotations": []
+    },
+    {
+      "score": "23.0",
+      "question_id": 67014688,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3722680315,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/67014688/submissions/3722680315/grade",
+      "annotations": []
+    },
+    {
+      "score": "20.0",
+      "question_id": 67014689,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3722680607,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/67014689/submissions/3722680607/grade",
+      "annotations": []
+    },
+    {
+      "score": "25.0",
+      "question_id": 67014691,
+      "data": {},
+      "active": true,
+      "answers": {},
+      "id": 3722681189,
+      "evaluations": [],
+      "grade_path": "/courses/1233533/questions/67014691/submissions/3722681189/grade",
+      "annotations": []
+    }
+  ],
+  "questions": [
+    {
+      "id": 67014688,
+      "type": "FreeResponseQuestion",
+      "title": "Mining",
+      "index": 1,
+      "weight": "25.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 17.6,
+            "x2": 86.2,
+            "y1": 28.2,
+            "y2": 88.8,
+            "page_number": 3
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "1",
+      "numbered_title": "1: Mining",
+      "anchor": "Question_1"
+    },
+    {
+      "id": 67014689,
+      "type": "FreeResponseQuestion",
+      "title": "Scheduling",
+      "index": 2,
+      "weight": "25.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 13.9,
+            "x2": 85.9,
+            "y1": 42.6,
+            "y2": 85.9,
+            "page_number": 5
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "2",
+      "numbered_title": "2: Scheduling",
+      "anchor": "Question_2"
+    },
+    {
+      "id": 67014690,
+      "type": "FreeResponseQuestion",
+      "title": "Shortest Path",
+      "index": 3,
+      "weight": "25.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 17.7,
+            "x2": 86.2,
+            "y1": 23.9,
+            "y2": 84.7,
+            "page_number": 7
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "3",
+      "numbered_title": "3: Shortest Path",
+      "anchor": "Question_3"
+    },
+    {
+      "id": 67014691,
+      "type": "FreeResponseQuestion",
+      "title": "Decimal to Binary",
+      "index": 4,
+      "weight": "25.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 17.9,
+            "x2": 86.1,
+            "y1": 24.1,
+            "y2": 89,
+            "page_number": 9
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "4",
+      "numbered_title": "4: Decimal to Binary",
+      "anchor": "Question_4"
+    },
+    {
+      "id": 66946874,
+      "type": "FreeResponseQuestion",
+      "title": "Bonus Question",
+      "index": 5,
+      "weight": "1.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 13.6,
+            "x2": 86.2,
+            "y1": 23.8,
+            "y2": 88.8,
+            "page_number": 11
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "5",
+      "numbered_title": "5: Bonus Question",
+      "anchor": "Question_5"
+    },
+    {
+      "id": 66946875,
+      "type": "FreeResponseQuestion",
+      "title": "Assumptions",
+      "index": 6,
+      "weight": "0.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 13.7,
+            "x2": 86.4,
+            "y1": 24,
+            "y2": 52.9,
+            "page_number": 13
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "6",
+      "numbered_title": "6: Assumptions",
+      "anchor": "Question_6"
+    },
+    {
+      "id": 66946876,
+      "type": "FreeResponseQuestion",
+      "title": "Suspicious Activity",
+      "index": 7,
+      "weight": "0.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 13.7,
+            "x2": 86.3,
+            "y1": 59.5,
+            "y2": 66.1,
+            "page_number": 13
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "7",
+      "numbered_title": "7: Suspicious Activity",
+      "anchor": "Question_7"
+    },
+    {
+      "id": 66946877,
+      "type": "FreeResponseQuestion",
+      "title": "Comments / Concerns",
+      "index": 8,
+      "weight": "0.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 13.7,
+            "x2": 86.3,
+            "y1": 68,
+            "y2": 74.6,
+            "page_number": 13
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "8",
+      "numbered_title": "8: Comments / Concerns",
+      "anchor": "Question_8"
+    },
+    {
+      "id": 66946878,
+      "type": "FreeResponseQuestion",
+      "title": "100 Penguins vs. 1 CS170 Student",
+      "index": 9,
+      "weight": "0.0",
+      "parameters": {
+        "crop_rect_list": [
+          {
+            "x1": 13.8,
+            "x2": 86.4,
+            "y1": 77,
+            "y2": 83.6,
+            "page_number": 13
+          }
+        ]
+      },
+      "scoring_type": "positive",
+      "content": [],
+      "full_index": "9",
+      "numbered_title": "9: 100 Penguins vs. 1 CS170 Student",
+      "anchor": "Question_9"
+    }
+  ],
+  "regrade_requests": [
+    {
+      "id": 7498128,
+      "staff_id": 3999752,
+      "student_comment": "I think I should get +3 points for rubric item Runtime Analysis \nsince I mentioned that solving each subproblem takes atleast O(n) time like the solution.",
+      "staff_comment": "The solution indicates that the total runtime is O(n), not O(n) for each subproblem",
+      "completed": true,
+      "created_at": "2026-03-13T23:37:56.121371-07:00",
+      "updated_at": "2026-03-15T13:50:17.225265-07:00",
+      "assignment_id": 7750050,
+      "question_submission_id": 3722680607
+    },
+    {
+      "id": 7482701,
+      "staff_id": 5337947,
+      "student_comment": "I think I should get +9 points for rubic item \"Divide the problem into three subproblems: a, 10^n/2, and b as stated in the question and recurse on all three subproblems\".\nThis is because I mention in the final solution that you need to convert a, b, and 10^n/2 to binary recursively in the recursive case.",
+      "staff_comment": "i agree",
+      "completed": true,
+      "created_at": "2026-03-11T11:51:17.554096-07:00",
+      "updated_at": "2026-03-14T14:35:37.311360-07:00",
+      "assignment_id": 7750050,
+      "question_submission_id": 3722681189
+    }
+  ],
+  "rubric_items": [
+    {
+      "id": 259192447,
+      "description": "Correctly runs algorithm until the queue is completely empty (not just returning the first time $$t$$ is seen) and returns $$d(t)$$.",
+      "weight": "5.0",
+      "question_id": 67014690,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4449902,
+      "present": false
+    },
+    {
+      "id": 259192153,
+      "description": "_(Partial)_ Correctly isolates the $$(u, v)$$ edge to apply the $$-1$$ weight, while correctly processing all other edges with standard $$+1$$ BFS logic.",
+      "weight": "0.0",
+      "question_id": 67014690,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4449902,
+      "present": false
+    },
+    {
+      "id": 259192094,
+      "description": "_(Partial)_ Explicitly modifies the BFS queueing rule to check if $$d(u) - 1 < d(v)$$ , and if so, explicitly states that $$v$$ must be pushed **back** into the queue (or the queue is cleared and reset to $$v$$) to update its descendants.",
+      "weight": "10.0",
+      "question_id": 67014690,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4449902,
+      "present": false
+    },
+    {
+      "id": 259188402,
+      "description": "_(Partial)_ Specifies running BFS from $$s$$ in Layer 0, and attempts to extract the shortest path by comparing $$d(t_0)$$ and $$d(t_1)$$. (Allow for minor mathematical errors here).",
+      "weight": "4.0",
+      "question_id": 67014690,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4449785,
+      "present": false
+    },
+    {
+      "id": 259188843,
+      "description": "Shows why the adjustment (subtracting 1 or 2) yields the correct final path weight.",
+      "weight": "3.0",
+      "question_id": 67014690,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4449786,
+      "present": false
+    },
+    {
+      "id": 259188267,
+      "description": "Mentions making two copies of the graph.",
+      "weight": "0.0",
+      "question_id": 67014690,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4449785,
+      "present": false
+    },
+    {
+      "id": 259187491,
+      "description": "Fully correct algorithm.",
+      "weight": "15.0",
+      "question_id": 67014690,
+      "position": 0,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 259188831,
+      "description": "_(Partial)_ Attempts to justify the math behind their specific path combination or layer adjustment, but leaves a minor gap in their logical proof.",
+      "weight": "2.0",
+      "question_id": 67014690,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4449786,
+      "present": false
+    },
+    {
+      "id": 259188377,
+      "description": "_(Partial)_  Construction of the duplicated graph: states there are two layers AND correctly define the directed cross-edge from $$u$$ in Layer 0 to $$v$$ in Layer 1.",
+      "weight": "5.0",
+      "question_id": 67014690,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4449785,
+      "present": false
+    },
+    {
+      "id": 259188257,
+      "description": "Correctly returns the minimum of $$d(s, t)$$ and $$d(s, u) + d(v, t) - 1$$.",
+      "weight": "5.0",
+      "question_id": 67014690,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4449775,
+      "present": false
+    },
+    {
+      "id": 259188222,
+      "description": "_(Partial)_ Outlines the three necessary BFS runs and attempts to combine the paths to find the minimum and correct for the $$-1$$ edge. (Allow for minor mathematical errors here).",
+      "weight": "3.0",
+      "question_id": 67014690,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4449775,
+      "present": false
+    },
+    {
+      "id": 259188472,
+      "description": "_(Partial)_ Identifies the two binary cases (the shortest path either uses the unique edge exactly once or not at all)",
+      "weight": "5.0",
+      "question_id": 67014690,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4449786,
+      "present": false
+    },
+    {
+      "id": 259187684,
+      "description": "_(Partial)_ Breaks problem into three distinct BFS runs on a graph without the $$-1$$ edge: one from $$s$$ to $$t$$, one from $$s$ to $u$$, and one from $$v$$ to $$t$$. (Allow for minor logical errors here).",
+      "weight": "7.0",
+      "question_id": 67014690,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4449775,
+      "present": false
+    },
+    {
+      "id": 259188421,
+      "description": "Correctly compares $$d(t_0)$$ against $$d(t_1) - 2$$.",
+      "weight": "6.0",
+      "question_id": 67014690,
+      "position": 3,
+      "source_id": null,
+      "group_id": 4449785,
+      "present": false
+    },
+    {
+      "id": 259188494,
+      "description": "Fully correct correctness argument.",
+      "weight": "10.0",
+      "question_id": 67014690,
+      "position": 1,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 259187510,
+      "description": "Stated algorithm is slower than $$O(|V| + |E|)$$  time. (Don't award any other points).",
+      "weight": "0.0",
+      "question_id": 67014690,
+      "position": 2,
+      "source_id": null,
+      "group_id": null,
+      "present": true
+    },
+    {
+      "id": 258612336,
+      "description": "Fully correct exchange argument",
+      "weight": "15.0",
+      "question_id": 67014688,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4440020,
+      "present": true
+    },
+    {
+      "id": 258612182,
+      "description": "Fully correct algorithm design",
+      "weight": "10.0",
+      "question_id": 67014688,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4440019,
+      "present": false
+    },
+    {
+      "id": 258612468,
+      "description": "Blank/Incorrect",
+      "weight": "0.0",
+      "question_id": 67014688,
+      "position": 3,
+      "source_id": null,
+      "group_id": 4440020,
+      "present": false
+    },
+    {
+      "id": 258612667,
+      "description": "[Partial] Greedily takes min($$q_i$$, remaining space) for each mineral in order",
+      "weight": "4.0",
+      "question_id": 67014688,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4440019,
+      "present": true
+    },
+    {
+      "id": 258709894,
+      "description": "[Partial] Sorts the minerals in decreasing order of value",
+      "weight": "4.0",
+      "question_id": 67014688,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4440019,
+      "present": true
+    },
+    {
+      "id": 258710457,
+      "description": "[Partial] Claims that the total value is either maintained or reduced with that change",
+      "weight": "5.0",
+      "question_id": 67014688,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4440020,
+      "present": false
+    },
+    {
+      "id": 258709896,
+      "description": "Blank/Incorrect",
+      "weight": "0.0",
+      "question_id": 67014688,
+      "position": 4,
+      "source_id": null,
+      "group_id": 4440019,
+      "present": false
+    },
+    {
+      "id": 258710455,
+      "description": "[Partial] Shows that an \"optimal solution\" which diverges from the greedy solution replaces a high-valued mineral for a lower-valued mineral",
+      "weight": "10.0",
+      "question_id": 67014688,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4440020,
+      "present": false
+    },
+    {
+      "id": 258709895,
+      "description": "[Partial] Correctly identifies the O(NlogN) runtime",
+      "weight": "2.0",
+      "question_id": 67014688,
+      "position": 3,
+      "source_id": null,
+      "group_id": 4440019,
+      "present": false
+    },
+    {
+      "id": 258354596,
+      "description": "Blank",
+      "weight": "0.0",
+      "question_id": 66946875,
+      "position": 0,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258775244,
+      "description": "Noted",
+      "weight": "0.0",
+      "question_id": 66946875,
+      "position": 2,
+      "source_id": null,
+      "group_id": null,
+      "present": true
+    },
+    {
+      "id": 258775228,
+      "description": "Yes",
+      "weight": "0.0",
+      "question_id": 66946875,
+      "position": 1,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 259376281,
+      "description": "Blank/Incorrect",
+      "weight": "0.0",
+      "question_id": 67014691,
+      "position": 2,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258960545,
+      "description": "[Partial] Correct number of subproblems with explanation ",
+      "weight": "1.0",
+      "question_id": 67014691,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": false
+    },
+    {
+      "id": 258959263,
+      "description": "Divide the problem into three subproblems: $$a$$, $$10^{n/2}$$, and $$b$$ as stated in the question and recurse on all three subproblems.",
+      "weight": "9.0",
+      "question_id": 67014691,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4446253,
+      "present": false
+    },
+    {
+      "id": 258960752,
+      "description": "[Tree Method] Argue that each subproblem of size n/2 is doing $$O(n^{\\log_2 3}/3)$$ work, and it has 3 subproblems. So the work done on that level is $$O(n^{\\log_2 3})$$",
+      "weight": "5.0",
+      "question_id": 67014691,
+      "position": 7,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": false
+    },
+    {
+      "id": 258959215,
+      "description": "Fully correct",
+      "weight": "15.0",
+      "question_id": 67014691,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4446253,
+      "present": true
+    },
+    {
+      "id": 258959233,
+      "description": "Fully correct",
+      "weight": "10.0",
+      "question_id": 67014691,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": true
+    },
+    {
+      "id": 258960319,
+      "description": "Use Karatsuba algorithm to multiply $$a$$ and $$10^{n/2}$$, then add $$b$$ to the product to get the result.",
+      "weight": "3.0",
+      "question_id": 67014691,
+      "position": 4,
+      "source_id": null,
+      "group_id": 4446253,
+      "present": false
+    },
+    {
+      "id": 258960630,
+      "description": "Correctly apply the master theorem to get the runtime",
+      "weight": "4.0",
+      "question_id": 67014691,
+      "position": 5,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": false
+    },
+    {
+      "id": 258960249,
+      "description": "[Partial] Attempted to divide the problem into subproblems, for example, recursing on $$a$$ and $$b$$ but not $$10^{n/2}$$.",
+      "weight": "3.0",
+      "question_id": 67014691,
+      "position": 3,
+      "source_id": null,
+      "group_id": 4446253,
+      "present": false
+    },
+    {
+      "id": 258960573,
+      "description": "[Partial] Correctly argue that Karatsuba dominates the extra workload and it is $$O(n^{\\log_2 3})$$",
+      "weight": "1.0",
+      "question_id": 67014691,
+      "position": 4,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": false
+    },
+    {
+      "id": 258960561,
+      "description": "[Partial] Correct subproblem size with explanation ",
+      "weight": "1.0",
+      "question_id": 67014691,
+      "position": 3,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": false
+    },
+    {
+      "id": 258960520,
+      "description": "Correct recurrence relation: $$T(n) = 3T(\\frac{n}{2}) + O(n^{\\log_2 3})$$",
+      "weight": "6.0",
+      "question_id": 67014691,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": false
+    },
+    {
+      "id": 258960641,
+      "description": "[Tree Method]  Argue that there are $$\\log n$$ levels\n",
+      "weight": "3.0",
+      "question_id": 67014691,
+      "position": 6,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": false
+    },
+    {
+      "id": 258960791,
+      "description": "[Tree Method] Conclude that the runtime is the number of levels times the work for every level, which gives $$O(n^{\\log_2 3} \\log n)$$",
+      "weight": "2.0",
+      "question_id": 67014691,
+      "position": 8,
+      "source_id": null,
+      "group_id": 4446254,
+      "present": false
+    },
+    {
+      "id": 258960382,
+      "description": "State the base case: when $$n$$ is 1, directly return the binary representation of the number",
+      "weight": "3.0",
+      "question_id": 67014691,
+      "position": 5,
+      "source_id": null,
+      "group_id": 4446253,
+      "present": false
+    },
+    {
+      "id": 260484066,
+      "description": "[Partial] Attempts to divide the problem into 2 subproblems AND handles the $$10^{n/2}$$ case explicitly with potentially mistakes.",
+      "weight": "6.0",
+      "question_id": 67014691,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4446253,
+      "present": false
+    },
+    {
+      "id": 258354598,
+      "description": "Blank",
+      "weight": "0.0",
+      "question_id": 66946877,
+      "position": 0,
+      "source_id": null,
+      "group_id": null,
+      "present": true
+    },
+    {
+      "id": 258774457,
+      "description": "?",
+      "weight": "0.0",
+      "question_id": 66946877,
+      "position": 4,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258773615,
+      "description": "Noted",
+      "weight": "0.0",
+      "question_id": 66946877,
+      "position": 1,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258774126,
+      "description": ":(",
+      "weight": "0.0",
+      "question_id": 66946877,
+      "position": 3,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258773681,
+      "description": ":D",
+      "weight": "0.0",
+      "question_id": 66946877,
+      "position": 2,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258354599,
+      "description": "Blank",
+      "weight": "0.0",
+      "question_id": 66946878,
+      "position": 0,
+      "source_id": null,
+      "group_id": null,
+      "present": true
+    },
+    {
+      "id": 258773258,
+      "description": "both?",
+      "weight": "0.0",
+      "question_id": 66946878,
+      "position": 3,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258773153,
+      "description": "100 penguins",
+      "weight": "0.0",
+      "question_id": 66946878,
+      "position": 1,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258773156,
+      "description": "one CS170 student",
+      "weight": "0.0",
+      "question_id": 66946878,
+      "position": 2,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258354597,
+      "description": "Blank",
+      "weight": "0.0",
+      "question_id": 66946876,
+      "position": 0,
+      "source_id": null,
+      "group_id": null,
+      "present": true
+    },
+    {
+      "id": 258774526,
+      "description": "Noted",
+      "weight": "0.0",
+      "question_id": 66946876,
+      "position": 1,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258354595,
+      "description": "Fully Correct",
+      "weight": "1.0",
+      "question_id": 66946874,
+      "position": 0,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258570240,
+      "description": "Mostly Correct (Minor error/ambiguity/missing small detail)",
+      "weight": "0.8",
+      "question_id": 66946874,
+      "position": 1,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258566613,
+      "description": "Reasonable Progress",
+      "weight": "0.5",
+      "question_id": 66946874,
+      "position": 2,
+      "source_id": null,
+      "group_id": null,
+      "present": false
+    },
+    {
+      "id": 258566887,
+      "description": "Blank/Incorrect",
+      "weight": "0.0",
+      "question_id": 66946874,
+      "position": 3,
+      "source_id": null,
+      "group_id": null,
+      "present": true
+    },
+    {
+      "id": 259259569,
+      "description": "Fully correct",
+      "weight": "10.0",
+      "question_id": 67014689,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4451051,
+      "present": false
+    },
+    {
+      "id": 259259654,
+      "description": "Fully correct",
+      "weight": "3.0",
+      "question_id": 67014689,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4451053,
+      "present": true
+    },
+    {
+      "id": 259259635,
+      "description": "[Partial] Considers selecting the last job and not selecting the last job",
+      "weight": "5.0",
+      "question_id": 67014689,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4451051,
+      "present": false
+    },
+    {
+      "id": 259259698,
+      "description": "Incorrect / Blank",
+      "weight": "0.0",
+      "question_id": 67014689,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4451053,
+      "present": false
+    },
+    {
+      "id": 259259759,
+      "description": "Incorrect / Blank",
+      "weight": "0.0",
+      "question_id": 67014689,
+      "position": 3,
+      "source_id": null,
+      "group_id": 4451054,
+      "present": false
+    },
+    {
+      "id": 259259651,
+      "description": "Incorrect / Blank",
+      "weight": "0.0",
+      "question_id": 67014689,
+      "position": 3,
+      "source_id": null,
+      "group_id": 4451051,
+      "present": false
+    },
+    {
+      "id": 259259545,
+      "description": "Fully correct",
+      "weight": "6.0",
+      "question_id": 67014689,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4451049,
+      "present": true
+    },
+    {
+      "id": 259259564,
+      "description": "Incorrect / Blank",
+      "weight": "0.0",
+      "question_id": 67014689,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4451049,
+      "present": false
+    },
+    {
+      "id": 259259755,
+      "description": "[Partial] Found the correct runtime per subproblem",
+      "weight": "3.0",
+      "question_id": 67014689,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4451054,
+      "present": false
+    },
+    {
+      "id": 259259646,
+      "description": "[Partial] Finds the latest non-overlapping job if selecting the last job",
+      "weight": "5.0",
+      "question_id": 67014689,
+      "position": 2,
+      "source_id": null,
+      "group_id": 4451051,
+      "present": true
+    },
+    {
+      "id": 259259723,
+      "description": "Fully correct",
+      "weight": "6.0",
+      "question_id": 67014689,
+      "position": 0,
+      "source_id": null,
+      "group_id": 4451054,
+      "present": true
+    },
+    {
+      "id": 259259734,
+      "description": "[Partial] Found the correct number of subproblems",
+      "weight": "3.0",
+      "question_id": 67014689,
+      "position": 1,
+      "source_id": null,
+      "group_id": 4451054,
+      "present": false
+    },
+    {
+      "id": 260440854,
+      "description": "Inefficient runtime (e.g. in terms of $$t$$)",
+      "weight": "-5.0",
+      "question_id": 67014689,
+      "position": 4,
+      "source_id": null,
+      "group_id": 4451054,
+      "present": false
+    }
+  ],
+  "rubric_item_groups": [
+    {
+      "id": 4440019,
+      "description": "Part (a)",
+      "position": 0,
+      "question_id": 67014688,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4440020,
+      "description": "Part (b) (SELECT ONLY ONE)",
+      "position": 1,
+      "question_id": 67014688,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4446253,
+      "description": "Algorithm",
+      "position": 0,
+      "question_id": 67014691,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4446254,
+      "description": "Runtime",
+      "position": 1,
+      "question_id": 67014691,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4449775,
+      "description": "Multiple BFS Approach _(Partials)_",
+      "position": 4,
+      "question_id": 67014690,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4449785,
+      "description": "Graph Duplication  _(Partials)_",
+      "position": 3,
+      "question_id": 67014690,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4449786,
+      "description": "Correctness  _(Partials)_",
+      "position": 6,
+      "question_id": 67014690,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4449902,
+      "description": "BFS Modification _(Partials)_",
+      "position": 5,
+      "question_id": 67014690,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4451049,
+      "description": "Subproblem",
+      "position": 0,
+      "question_id": 67014689,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4451051,
+      "description": "Recurrence",
+      "position": 1,
+      "question_id": 67014689,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4451053,
+      "description": "Base case (only awarded if credit was given for subproblem)",
+      "position": 2,
+      "question_id": 67014689,
+      "source_id": null,
+      "mutually_exclusive": false
+    },
+    {
+      "id": 4451054,
+      "description": "Runtime analysis (only awarded if credit was given for recurrence)",
+      "position": 3,
+      "question_id": 67014689,
+      "source_id": null,
+      "mutually_exclusive": false
+    }
+  ],
+  "successful_submission_modal": {
+    "isOpen": false
+  },
+  "text_files": [],
+  "text_annotations_enabled": true,
+  "rubric_annotation_association_enabled": true,
+  "quickmarks_enabled": false,
+  "show_outline_header_message": true,
+  "alerts": []
+}

@@ -1,0 +1,539 @@
+{
+  "title": "View Submission | Gradescope",
+  "url": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875",
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "CS 170 NavigationEfficient Algorithms and Intractable Problems",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--menuHeader"
+      ],
+      "text": "Instructors",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--menuHeader"
+      ],
+      "text": "More",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--userProfileName"
+      ],
+      "text": "Account",
+      "dataKeys": []
+    },
+    {
+      "tag": "h1",
+      "classes": [
+        "submissionOutlineHeader--assignmentTitle"
+      ],
+      "text": "Midterm 1",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Student",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Total Points",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 1",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_1-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "Mining",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 2",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_2-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "Scheduling",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 3",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_3-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "Shortest Path",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 4",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_4-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "Decimal to Binary",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 5",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_5-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "Bonus Question",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 6",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_6-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "Assumptions",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 7",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_7-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "Suspicious Activity",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 8",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_8-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "Comments / Concerns",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "submissionOutline--sectionHeading"
+      ],
+      "text": "Question 9",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "id": "Question_9-title",
+      "classes": [
+        "submissionOutlineQuestion--titleContainer"
+      ],
+      "text": "100 Penguins vs. 1 CS170 Student",
+      "dataKeys": []
+    }
+  ],
+  "links": [
+    {
+      "tag": "a",
+      "classes": [
+        "sr-only",
+        "sr-only-focusable",
+        "tiiBtn",
+        "tiiBtn-primary",
+        "skipLink"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#main-content",
+      "text": "Skip to content",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533",
+      "text": "CS 170",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "sidebar--menuLink"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533",
+      "text": "Dashboard",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "sidebar--menuLink"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/regrade_requests",
+      "text": "Regrade Requests",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://guides.gradescope.com/hc/en-us",
+      "text": "Help",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/account/edit",
+      "text": "Edit Account",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/logout?tfs_mode=false",
+      "text": "Log Out",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_1-rubric",
+      "text": "Mining",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_2-rubric",
+      "text": "Scheduling",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_3-rubric",
+      "text": "Shortest Path",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_4-rubric",
+      "text": "Decimal to Binary",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_5-rubric",
+      "text": "Bonus Question",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_6-rubric",
+      "text": "Assumptions",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_7-rubric",
+      "text": "Suspicious Activity",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_8-rubric",
+      "text": "Comments / Concerns",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "submissionOutlineQuestion--title",
+        "submissionOutlineQuestion--title-leafQuestion"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875#Question_9-rubric",
+      "text": "100 Penguins vs. 1 CS170 Student",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "actionBar--action",
+        "tiiBtn",
+        "tiiBtn-secondary"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875.pdf",
+      "text": "Download Graded Copy",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://guides.gradescope.com/hc/en-us",
+      "text": "Help",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/account/edit",
+      "text": "Edit Account",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/logout?tfs_mode=false",
+      "text": "Log Out",
+      "dataKeys": []
+    }
+  ],
+  "tables": [],
+  "buttons": [
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-tertiary",
+        "btnGroup--btn",
+        "btnGroup--btn-viewer",
+        "u-pointerEventsAuto",
+        "pageViewerControls--fadingBtn",
+        "pageViewerControls--fadingBtn-is-hidden"
+      ],
+      "text": "Hide Text",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "pageViewerControls--arrow",
+        "pageViewerControls--arrow-previous"
+      ],
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "pageViewerControls--arrow",
+        "pageViewerControls--arrow-next"
+      ],
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-inverse",
+        "u-pointerEventsAuto"
+      ],
+      "text": "All Pages",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-inverse",
+        "tiiBtn-small",
+        "u-pointerEventsAuto",
+        "btnGroup--btn",
+        "js-rotateRightBtn",
+        "btnGroup--btn-inverse"
+      ],
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-inverse",
+        "tiiBtn-small",
+        "u-pointerEventsAuto",
+        "btnGroup--btn",
+        "js-zoomOutBtn",
+        "btnGroup--btn-inverse"
+      ],
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-inverse",
+        "tiiBtn-small",
+        "u-pointerEventsAuto",
+        "btnGroup--btn",
+        "js-zoomInBtn",
+        "btnGroup--btn-inverse"
+      ],
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-secondary",
+        "actionBar--action",
+        "js-toggleActionBarCollapsedMenu"
+      ],
+      "text": "More",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-secondary",
+        "actionBar--action"
+      ],
+      "text": "Download Original",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-primary",
+        "actionBar--action",
+        "tiiBtn--textWithIconRight"
+      ],
+      "text": "Next Question",
+      "dataKeys": []
+    }
+  ],
+  "reactComponents": [
+    {
+      "cls": "AssignmentSubmissionViewer",
+      "propsLen": 83927,
+      "text": "Hide Text All PagesGradedMidterm 1Select each question to review feedback and gr"
+    },
+    {
+      "cls": "SessionTimeoutManager",
+      "propsLen": 194,
+      "text": ""
+    }
+  ],
+  "formInputs": [],
+  "iframes": []
+}

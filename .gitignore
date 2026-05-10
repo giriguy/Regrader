@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.env
+.env.local
+
+# dflash workspace (cloned repo + venv + scratch logs)
+.dflash/dflash/
+.dflash/.venv/
+.dflash/*.log
+
+# Backend data — local uploads, rendered pages, sqlite db
+backend/data/uploads/*
+backend/data/pages/*
+backend/data/regrader.db
+!backend/data/uploads/.gitkeep
+!backend/data/pages/.gitkeep
+
+.DS_Store
+*.log

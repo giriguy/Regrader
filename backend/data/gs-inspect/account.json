@@ -1,0 +1,317 @@
+{
+  "title": "Your Courses | Gradescope",
+  "url": "https://www.gradescope.com/account",
+  "headings": [
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--title"
+      ],
+      "text": "Your Courses",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--menuHeader"
+      ],
+      "text": "More",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--userProfileName"
+      ],
+      "text": "Account",
+      "dataKeys": []
+    },
+    {
+      "tag": "h1",
+      "classes": [
+        "pageHeading"
+      ],
+      "text": "Course Dashboard",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "pageHeading"
+      ],
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "classes": [
+        "courseBox--shortname"
+      ],
+      "text": "CS 170",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "classes": [
+        "courseBox--shortname"
+      ],
+      "text": "CS 70",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "classes": [
+        "courseBox--shortname"
+      ],
+      "text": "EE16A-S26",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "classes": [
+        "courseBox--shortname"
+      ],
+      "text": "NMEP 101",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "classes": [
+        "courseBox--shortname"
+      ],
+      "text": "CS 61B",
+      "dataKeys": []
+    },
+    {
+      "tag": "h3",
+      "classes": [
+        "courseBox--shortname"
+      ],
+      "text": "Math 54",
+      "dataKeys": []
+    },
+    {
+      "tag": "h1",
+      "id": "addCourseModal-heading",
+      "classes": [
+        "modal--heading"
+      ],
+      "text": "Add Course via Entry Code",
+      "dataKeys": []
+    }
+  ],
+  "links": [
+    {
+      "tag": "a",
+      "classes": [
+        "sr-only",
+        "sr-only-focusable",
+        "tiiBtn",
+        "tiiBtn-primary",
+        "skipLink"
+      ],
+      "href": "https://www.gradescope.com/account#main-content",
+      "text": "Skip to content",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://guides.gradescope.com/hc/en-us",
+      "text": "Help",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/account/edit",
+      "text": "Edit Account",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/logout?tfs_mode=false",
+      "text": "Log Out",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "courseBox",
+        ""
+      ],
+      "href": "https://www.gradescope.com/courses/1233533",
+      "text": "CS 170Efficient Algorithms and Intractable Problems23 assignments",
+      "dataKeys": [
+        "loginrequired"
+      ]
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "courseBox",
+        ""
+      ],
+      "href": "https://www.gradescope.com/courses/1226014",
+      "text": "CS 70Discrete Mathematics and Probability Theory (Spring 2026)55 assignments",
+      "dataKeys": [
+        "loginrequired"
+      ]
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "courseBox",
+        ""
+      ],
+      "href": "https://www.gradescope.com/courses/1235369",
+      "text": "EE16A-S26Signals, Dynamical Systems, and Information (Spring 2026)18 assignments",
+      "dataKeys": [
+        "loginrequired"
+      ]
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "courseBox",
+        ""
+      ],
+      "href": "https://www.gradescope.com/courses/1255349",
+      "text": "NMEP 101[ML@B] New Member Education Program14 assignments",
+      "dataKeys": [
+        "loginrequired"
+      ]
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "courseBox",
+        ""
+      ],
+      "href": "https://www.gradescope.com/courses/1104518",
+      "text": "CS 61BData Structures31 assignments",
+      "dataKeys": [
+        "loginrequired"
+      ]
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "courseBox",
+        ""
+      ],
+      "href": "https://www.gradescope.com/courses/1093252",
+      "text": "Math 54 Linear Algebra and Differential Equations28 assignments",
+      "dataKeys": [
+        "loginrequired"
+      ]
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-tertiary"
+      ],
+      "href": "https://www.gradescope.com/",
+      "text": "Cancel",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://guides.gradescope.com/hc/en-us",
+      "text": "Help",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/account/edit",
+      "text": "Edit Account",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/logout?tfs_mode=false",
+      "text": "Log Out",
+      "dataKeys": []
+    }
+  ],
+  "tables": [],
+  "buttons": [
+    {
+      "tag": "button",
+      "classes": [
+        "courseBox",
+        "courseBox-new",
+        "js-enrollInCourse"
+      ],
+      "text": "Add a course",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-primary"
+      ],
+      "text": "Add Course",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "js-enrollInCourse",
+        "tiiBtn",
+        "tiiBtn-primary",
+        "actionBar--action"
+      ],
+      "text": "Add Course",
+      "dataKeys": []
+    }
+  ],
+  "reactComponents": [
+    {
+      "cls": "SessionTimeoutManager",
+      "propsLen": 194,
+      "text": ""
+    }
+  ],
+  "formInputs": [
+    {
+      "tag": "input",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "id": "student_membership_course_entry_code",
+      "classes": [
+        "",
+        "form--textInput"
+      ],
+      "text": "",
+      "dataKeys": []
+    }
+  ],
+  "iframes": []
+}

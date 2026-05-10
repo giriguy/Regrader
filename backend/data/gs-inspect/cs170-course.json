@@ -1,0 +1,491 @@
+{
+  "title": "CS 170 Dashboard | Gradescope",
+  "url": "https://www.gradescope.com/courses/1233533",
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "CS 170 NavigationEfficient Algorithms and Intractable Problems",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--menuHeader"
+      ],
+      "text": "Instructors",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--menuHeader"
+      ],
+      "text": "Course Actions",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--menuHeader"
+      ],
+      "text": "More",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "sidebar--userProfileName"
+      ],
+      "text": "Account",
+      "dataKeys": []
+    },
+    {
+      "tag": "h1",
+      "classes": [
+        "courseHeader--title"
+      ],
+      "text": "CS 170",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "classes": [
+        "courseHeader--term"
+      ],
+      "text": "Spring 2026",
+      "dataKeys": []
+    },
+    {
+      "tag": "h1",
+      "id": "submit-fixed-length-modal-heading",
+      "classes": [
+        "modal--heading"
+      ],
+      "text": "Submit Assignment",
+      "dataKeys": []
+    },
+    {
+      "tag": "h1",
+      "id": "submit-variable-length-modal-heading",
+      "classes": [
+        "modal--heading"
+      ],
+      "text": "Submit Assignment",
+      "dataKeys": []
+    },
+    {
+      "tag": "h1",
+      "id": "submit-typed-document-modal-heading",
+      "classes": [
+        "modal--heading"
+      ],
+      "text": "Submit Assignment",
+      "dataKeys": []
+    },
+    {
+      "tag": "h1",
+      "id": "submit-code-modal-heading",
+      "classes": [
+        "modal--heading"
+      ],
+      "text": "Submit Programming Assignment",
+      "dataKeys": []
+    },
+    {
+      "tag": "h2",
+      "id": "js-dropCourseModalTitle",
+      "classes": [
+        "modalv2--heading"
+      ],
+      "text": "Unenroll from Course?",
+      "dataKeys": []
+    }
+  ],
+  "links": [
+    {
+      "tag": "a",
+      "classes": [
+        "sr-only",
+        "sr-only-focusable",
+        "tiiBtn",
+        "tiiBtn-primary",
+        "skipLink"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533#main-content",
+      "text": "Skip to content",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533",
+      "text": "CS 170",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "sidebar--menuLink",
+        "active"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533",
+      "text": "Dashboard",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "sidebar--menuLink"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533/regrade_requests",
+      "text": "Regrade Requests",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://guides.gradescope.com/hc/en-us",
+      "text": "Help",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/account/edit",
+      "text": "Edit Account",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/logout?tfs_mode=false",
+      "text": "Log Out",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/8060956/submissions/411578771",
+      "text": "HW15",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7984035/submissions/407538723",
+      "text": "HW13",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7950239/submissions/405481586",
+      "text": "HW12",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7915516/submissions/403527812",
+      "text": "HW11",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7772396/submissions/396670105",
+      "text": "HW07",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7729121/submissions/394657796",
+      "text": "HW06",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7682983/submissions/392351247",
+      "text": "HW05",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7639117/submissions/389977405",
+      "text": "HW04",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7548324/submissions/385347735",
+      "text": "HW02",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7503168/submissions/382731252",
+      "text": "HW01",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7750050/submissions/393529875",
+      "text": "Midterm 1",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://www.gradescope.com/courses/1233533/assignments/7967778/submissions/404528915",
+      "text": "Midterm 2",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "classes": [
+        "link",
+        "link-noUnderline",
+        "js-downloadPDFTemplate--link"
+      ],
+      "href": "https://www.gradescope.com/courses/1233533",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://apps.apple.com/us/app/gradescope/id1563280912",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "a",
+      "href": "https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US&gl=US",
+      "text": "",
+      "dataKeys": []
+    }
+  ],
+  "tables": [
+    {
+      "classes": "table dataTable no-footer",
+      "rowCount": 24,
+      "headerCells": [
+        "Name",
+        "Status",
+        "ReleasedDue (PDT)"
+      ],
+      "firstRowCells": [
+        "End-of-Semester Feedback",
+        "No Submission",
+        "1 day, 7 hours leftMay 03 at 12:00PMMay 10 at 11:59PM"
+      ]
+    },
+    {
+      "classes": "dropzonePreview js-dropzonePreviewContainer is-hidden",
+      "rowCount": 1,
+      "headerCells": [
+        "Name",
+        "Size",
+        "Progress",
+        ""
+      ],
+      "firstRowCells": []
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "button",
+      "classes": [
+        "sidebar--menuAction",
+        "js-dropCourse"
+      ],
+      "text": "Unenroll From Course",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "js-submitAssignment"
+      ],
+      "text": "End-of-Semester Feedback",
+      "dataKeys": [
+        "assignmentId",
+        "submissionFormat",
+        "readyForSubmission",
+        "postUrl",
+        "imagesUrl",
+        "showLateSubmissionWarning",
+        "submissionMethods",
+        "leaderboardEnabled",
+        "assignmentTitle"
+      ]
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-tertiary"
+      ],
+      "text": "Cancel",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "id": "submit-variable-length-pdf",
+      "classes": [
+        "submit-variable-length-choice",
+        "linkGallery--link"
+      ],
+      "text": "Submit PDF",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-destructive",
+        "js-closeModal",
+        "js-cancelForm"
+      ],
+      "text": "Cancel",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-primaryLink"
+      ],
+      "text": "Browse Files.",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-tertiary",
+        "js-closeModal"
+      ],
+      "text": "Cancel",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-primary",
+        "js-submitCode"
+      ],
+      "text": "Upload",
+      "dataKeys": []
+    },
+    {
+      "tag": "button",
+      "classes": [
+        "js-closeModal"
+      ],
+      "text": "",
+      "dataKeys": []
+    }
+  ],
+  "reactComponents": [
+    {
+      "cls": "SessionTimeoutManager",
+      "propsLen": 194,
+      "text": ""
+    }
+  ],
+  "formInputs": [
+    {
+      "tag": "input",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "id": "submission_pdf_attachment",
+      "classes": [
+        "fileUpload--input",
+        ""
+      ],
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "id": "submit",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-primary"
+      ],
+      "text": "",
+      "dataKeys": [
+        "disableWith"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "id": "submission_file",
+      "classes": [
+        "fileUpload--input",
+        ""
+      ],
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "classes": [
+        "tiiBtn",
+        "tiiBtn-primary"
+      ],
+      "text": "",
+      "dataKeys": [
+        "disableWith"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "dataKeys": []
+    },
+    {
+      "tag": "input",
+      "id": "submission_leaderboard_name",
+      "classes": [
+        "",
+        "form--textInput"
+      ],
+      "text": "",
+      "dataKeys": []
+    }
+  ],
+  "iframes": []
+}

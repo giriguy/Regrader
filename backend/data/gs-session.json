@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.2.1063602026.1778370401",
+      "domain": ".gradescope.com",
+      "path": "/",
+      "expires": 1812930403.083004,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1353801566.1778370401",
+      "domain": ".gradescope.com",
+      "path": "/",
+      "expires": 1778456803,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "signed_token",
+      "value": "WUNzYVRBa0JSanlTWiszNUU5ZiswQWs0K0RIOTA4OHRPNWFDSDRhMkxFOD0tLUR4RmMrbW56RVFYSWlFaElFVTJsa3c9PQ%3D%3D--fb977d27f80ae2a542bf78b1583bcbea23f4700b",
+      "domain": "www.gradescope.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remember_me",
+      "value": "NENpRHJZcmdYYXJZQ1g4QzgvS0U0dz09LS1Na1k1aEduTmlDdFBoVFBTdzJCWEFBPT0%3D--017fd10c4a950f8b99d22aaa16e5fc158e3cb702",
+      "domain": "www.gradescope.com",
+      "path": "/",
+      "expires": 1812930427.649416,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "saml_idp_logout_redirect_url",
+      "value": "https%3A%2F%2Fshib.berkeley.edu%2Fidp%2Flogout",
+      "domain": "www.gradescope.com",
+      "path": "/",
+      "expires": 1812930427.649444,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gradescope_session",
+      "value": "eTNGbjQxendoZ2JVUHNUckpkVFAzN2lPazlUT2I1amhCOG9tRXNDRndMZEJRSVpicGowK3BXTlVuV1grbkNpWHI3WUNVd2JsMm1GUDZSTFpqVlVDbk9wZm1VSGlEVzJPUFVLV1dHdldwTW1vTzMvTnpFeE9Rd1llQ1hTV3B4VTh2L0lXSWR0MDdzNDE2Sml4WFNRc21CS3VvRHJRZ2Y3UTdSMDNGeDQ1VmFBUzQ0TEtHcUJFci96QjhIL2ErSHk2bzFxOGhiV1ZwVmtCVEZ5RnpvWTlkWlRadEJ5eFQ4SHNnV3J4dnJjT1JPOFdkamtjZkRCRldBbW9md3RRVUJtQ25SMDBSVzljaHBkQjNaQ0gzNmFRaHROZ0gvL1U0YkVLVzRYb1VwTHIrcHA0blNDeE82dS95L2Mvd0RYSXZwVWtNRkNrb3FFckNmbnJXMW1zOU1XVEprWk5iUTlXNlRWK1l4UjJZNVd1NDFZdTJ2bWNPbEFDbTk0TjFYV2lHV01SVFVUUU5UNHRVb2sweUErWitRbEpQUjQyVm94V0JjZVIrLzdvaFlHOE1tVi9jYkVlVG1FdFBRdnFxQmh4UTVPTEFnUUxJbisvdjJUWFNPbEIzYkliMTgrSGZWTkhpemVJN2NXN0FEaUVQQU12QXZVbEJvQmVzeFdaK1RYUFc4RGZNVk1zZU1aOERSTFdocmxNTXF2TldCT2lQYWo0L0FvanhuOTk3bVVpYzVsNWxKS0RRWWhjL2ZYT1lydGo2OVlsT1NpS1psakIzZlFETW1VRlBubHZJMmdXeU9NRnhjei9wZWZpZy9tb1RiRndLVnhseTFvT3ViK1g3TnZ5b1Y3aXhqcHRyeW00T0RsQTNKcC9BQzF1RUtWSGl2dmNMVkFmdEs1UXFkMlJ5TkF6dkJxZjRBTzM4NFQ3ZXd2ckg5WUpaeG15NXhFOWY5SllBS0tZVDJ5WlF6L3BUU1dDeG93QWJldmdDbHdJbGRkaFRwVTdLLzFaNStYTGV1Vkx4YjN4LS1QVkdLK2I1d3ZOUytKa1luYzFKZCtRPT0%3D--4109a6d779984d87c708c4f635ae55b8cc4e3506",
+      "domain": "www.gradescope.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "apt.uid",
+      "value": "AP-1BQVLBSZC216-2-1778370433747-19742661.0.0",
+      "domain": ".gradescope.com",
+      "path": "/",
+      "expires": 1809906433,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "apt.sid",
+      "value": "AP-1BQVLBSZC216-2-1778370433748-67459786",
+      "domain": ".gradescope.com",
+      "path": "/",
+      "expires": 1778372233,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "savedAt": 1778370433756
+}
